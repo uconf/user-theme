@@ -10,5 +10,6 @@ Personal backup extension
 
  ```sh
 git clone  https://github.com/uconf/user-theme.git 
-cp -rf  user-theme/*  ~/.local/share/gnome-shell/extensions/user-theme@gnome-shell.org
+mkdir ~/.local/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com
+cp -rf  user-theme/*  ~/.local/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com
 ```
